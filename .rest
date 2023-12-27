@@ -1,0 +1,6 @@
+GET http://localhost:3000/api/v1/register HTTP/1.1
+content-type: application/json
+{
+    "username": "testing1",
+    "password": "testing12"
+}
